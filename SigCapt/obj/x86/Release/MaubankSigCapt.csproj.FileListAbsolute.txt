@@ -1,0 +1,19 @@
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\MaubankSigCapt.csprojResolveAssemblyReference.cache
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\Interop.FlSigCaptLib.dll
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\Interop.FLSIGCTLLib.dll
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\MaubankSigCapt.csproj.ResolveComReference.cache
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\TestSigCapt.MaubankSigCapt.resources
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\TestSigCapt.Properties.Resources.resources
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\MaubankSigCapt.csproj.GenerateResource.Cache
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Release\NLog.config
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Release\MauBank Signature App.exe.config
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Release\MauBank Signature App.exe.manifest
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Release\MauBank Signature App.application
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Release\MauBank Signature App.exe
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Release\MauBank Signature App.pdb
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Release\NLog.dll
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Release\NLog.xml
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\MauBank Signature App.exe.manifest
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\MauBank Signature App.application
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\MauBank Signature App.exe
+C:\Users\varshav.HM2K\Documents\Signature-SDK-SamplesWIP\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Release\MauBank Signature App.pdb

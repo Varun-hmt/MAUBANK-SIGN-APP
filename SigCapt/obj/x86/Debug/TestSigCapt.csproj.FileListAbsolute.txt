@@ -1,0 +1,40 @@
+C:\Wacom-Signature-SDK\VS2010\TestSigCapt\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.exe
+C:\Wacom-Signature-SDK\VS2010\TestSigCapt\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.pdb
+C:\Wacom-Signature-SDK\VS2010\TestSigCapt\TestSigCapt\TestSigCapt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wacom-Signature-SDK\VS2010\TestSigCapt\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.TestSigCapt.resources
+C:\Wacom-Signature-SDK\VS2010\TestSigCapt\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.Properties.Resources.resources
+C:\Wacom-Signature-SDK\VS2010\TestSigCapt\TestSigCapt\TestSigCapt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Wacom-Signature-SDK\VS2010\TestSigCapt\TestSigCapt\TestSigCapt\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Wacom-Signature-SDK\VS2010\TestSigCapt\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.exe
+C:\Wacom-Signature-SDK\VS2010\TestSigCapt\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.pdb
+C:\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.exe
+C:\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.pdb
+C:\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.exe
+C:\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.pdb
+C:\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.TestSigCapt.resources
+C:\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.Properties.Resources.resources
+C:\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\GenerateResource.write.1.tlog
+X:\trunk\Wacom\Dev\apps\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.exe
+X:\trunk\Wacom\Dev\apps\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.pdb
+X:\trunk\Wacom\Dev\apps\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.exe
+X:\trunk\Wacom\Dev\apps\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.pdb
+X:\trunk\Wacom\Dev\apps\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.TestSigCapt.resources
+X:\trunk\Wacom\Dev\apps\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.Properties.Resources.resources
+X:\trunk\Wacom\Dev\apps\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.csprojResolveAssemblyReference.cache
+X:\trunk\Wacom\Dev\apps\Signature-SDK-Samples\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.csproj.GenerateResource.Cache
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.exe
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.pdb
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.TestSigCapt.resources
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.Properties.Resources.resources
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.csproj.GenerateResource.Cache
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\Interop.FlSigCaptLib.dll
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\Interop.FLSIGCTLLib.dll
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.csproj.ResolveComReference.cache
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.exe
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.pdb
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Debug\TestSigCapt.exe.config
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Debug\NLog.dll
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\bin\Debug\NLog.xml
+C:\Users\varshav\Downloads\Signature-SDK-Samples (1)\VS2010\TestSigCapt\TestSigCapt\obj\x86\Debug\TestSigCapt.csprojResolveAssemblyReference.cache

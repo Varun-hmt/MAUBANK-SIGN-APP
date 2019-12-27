@@ -1,0 +1,44 @@
+2017-08-30 16:14:49.8920|ERROR|TestSigCapt.MaubankSigCapt|Error while generating signature for customer with CIF12345. Error code: DynCaptPadError
+2017-08-30 16:34:14.7876|ERROR|TestSigCapt.MaubankSigCapt|error while deleting temporary files for customer with CIF784545121
+2018-03-05 13:02:18.8764|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF001931021
+2018-03-05 13:02:18.9685|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF001931021
+2018-03-05 13:05:47.4002|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF001931021
+2018-03-05 13:05:47.4643|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF001931021
+2018-09-20 09:49:36.8922|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF373246776
+2018-09-20 09:49:37.0296|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF373246776
+2018-09-20 09:49:41.8986|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF373246776
+2018-09-20 09:49:41.9142|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF373246776
+2019-10-28 12:02:54.3736|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF324353554
+2019-10-28 12:02:54.5402|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF324353554
+2019-10-28 12:07:15.1756|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF324353554
+2019-10-28 12:07:15.2206|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF324353554
+2019-10-28 13:07:04.4580|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF324353554
+2019-10-28 13:07:04.4995|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF324353554
+2019-10-28 13:07:53.3072|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF324353554
+2019-10-28 13:07:53.3490|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF324353554
+2019-10-28 13:14:52.3722|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF324353554
+2019-10-28 13:14:52.4175|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF324353554
+2019-10-28 13:28:54.6192|ERROR|TestSigCapt.MaubankSigCapt|error while deleting temporary files for customer with CIF0202526336
+2019-10-28 13:29:08.3834|ERROR|TestSigCapt.MaubankSigCapt|error while deleting temporary files for customer with CIF0202526336
+2019-10-28 13:29:12.2019|ERROR|TestSigCapt.MaubankSigCapt|error while deleting temporary files for customer with CIF0202526336
+2019-10-28 13:33:41.8930|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF345655
+2019-10-28 13:33:42.7623|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF345655
+2019-10-28 13:37:23.6721|ERROR|TestSigCapt.MaubankSigCapt|error while deleting temporary files for customer with CIF444445
+2019-10-28 13:41:31.9117|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF43565464
+2019-10-28 13:42:10.5097|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF43565464
+2019-10-28 13:53:08.8793|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF34546576
+2019-10-28 13:53:08.9502|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF34546576
+2019-10-28 14:04:14.5812|ERROR|TestSigCapt.MaubankSigCapt|Error while generating signature for customer with CIF34567. Error code: DynCaptError
+2019-10-28 14:07:19.1910|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF23465
+2019-10-28 14:07:19.2627|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF23465
+2019-10-28 14:12:42.6849|ERROR|TestSigCapt.MaubankSigCapt|error while deleting temporary files for customer with CIF234
+2019-10-28 14:17:21.0388|ERROR|TestSigCapt.MaubankSigCapt|Error while generating signature for customer with CIF23465. Error code: DynCaptCancel
+2019-10-28 14:25:05.0760|ERROR|TestSigCapt.MaubankSigCapt|error while saving hash for customer with CIF3456
+2019-10-28 14:25:05.1590|ERROR|TestSigCapt.MaubankSigCapt|error while saving signature for customer with CIF3456
+2019-10-28 14:54:15.3435|ERROR|TestSigCapt.MaubankSigCapt|error while generating signature for customer with CIF8787877
+2019-10-28 15:07:44.9060|ERROR|TestSigCapt.MaubankSigCapt|error while generating signature for customer with CIF142596
+2019-10-28 16:06:44.6155|ERROR|TestSigCapt.MaubankSigCapt|error while deleting temporary files for customer with CIF
+2019-10-29 10:54:09.0220|ERROR|TestSigCapt.MaubankSigCapt|error while generating signature for customer with CIF333333
+2019-10-29 10:59:06.7518|ERROR|TestSigCapt.MaubankSigCapt|error while generating signature for customer with CIF4356
+2019-10-29 10:59:15.1351|ERROR|TestSigCapt.MaubankSigCapt|error while deleting temporary files for customer with CIF2345678
+2019-10-29 10:59:37.6165|ERROR|TestSigCapt.MaubankSigCapt|error while deleting temporary files for customer with CIF
